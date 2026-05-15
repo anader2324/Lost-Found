@@ -1,8 +1,8 @@
 📅 Scrum Meeting Summaries
 Meeting 1: Project Kickoff & Requirements
-Date: December 15, 2025
+Date: May 1, 2026
 
-Attendees: All 4 Team Members
+Attendees: Anader Nader, AbdulRhman Alsayed
 
 • Goal: Define core features and tech stack.
 
@@ -13,9 +13,9 @@ Attendees: All 4 Team Members
 ---
 
 Meeting 2: Sprint Planning 1
-Date: December 18, 2025
+Date: May 5, 2026
 
-Attendees: All 4 Team Members
+Attendees: Anader Nader, AbdulRhman Alsayed
 
 • Goal: Set up the GitHub repository and initial backlog.
 
@@ -26,9 +26,9 @@ Attendees: All 4 Team Members
 ---
 
 Meeting 3: Implementation & Testing Sync
-Date: December 20, 2025
+Date: May 9, 2026
 
-Attendees: All 4 Team Members
+Attendees: Anader Nader, AbdulRhman Alsayed
 
 • Goal: Review code modularity and testing frameworks.
 
@@ -39,9 +39,9 @@ Attendees: All 4 Team Members
 ---
 
 Meeting 4: Final Review & Deployment
-Date: December 22, 2025 (Planned)
+Date: May 13, 2026
 
-Attendees: All 4 Team Members
+Attendees: Anader Nader, AbdulRhman Alsayed
 
 • Goal: Finalize documentation and ensure deployment is live.
 
