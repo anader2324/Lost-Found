@@ -2,7 +2,7 @@
 Meeting 1: Project Kickoff & Requirements
 Date: May 1, 2026
 
-Attendees: Anader Nader, AbdulRhman Alsayed
+Attendees: AbdulRhman Nader, Ahmed Alsayed
 
 • Goal: Define core features and tech stack.
 
@@ -15,7 +15,7 @@ Attendees: Anader Nader, AbdulRhman Alsayed
 Meeting 2: Sprint Planning 1
 Date: May 5, 2026
 
-Attendees: Anader Nader, AbdulRhman Alsayed
+Attendees: AbdulRhman Nader, Ahmed Alsayed
 
 • Goal: Set up the GitHub repository and initial backlog.
 
@@ -28,7 +28,7 @@ Attendees: Anader Nader, AbdulRhman Alsayed
 Meeting 3: Implementation & Testing Sync
 Date: May 9, 2026
 
-Attendees: Anader Nader, AbdulRhman Alsayed
+Attendees: AbdulRhman Nader, Ahmed Alsayed
 
 • Goal: Review code modularity and testing frameworks.
 
@@ -41,7 +41,7 @@ Attendees: Anader Nader, AbdulRhman Alsayed
 Meeting 4: Final Review & Deployment
 Date: May 13, 2026
 
-Attendees: Anader Nader, AbdulRhman Alsayed
+Attendees: AbdulRhman Nader, Ahmed Alsayed
 
 • Goal: Finalize documentation and ensure deployment is live.
 
